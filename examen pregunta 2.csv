@@ -1,13 +1,13 @@
-Color del agua,Olor,Residuos sólidos,Presencia de contaminantes,Nivel de pH,Respuesta
+Color del agua,Olor,Residuos sÃ³lidos,Presencia de contaminantes,Nivel de pH,Respuesta
 Claro,Sin olor,No,No,Normal,Apta
 Claro,Sin olor,No,No,Normal,Apta
 Claro,Desagradable,No,No,Bajo,No apta
-Turbio,Sin olor,Sí,Sí,Alto,No apta
-Turbio,Desagradable,Sí,Sí,Bajo,No apta
-Turbio,Desagradable,Sí,Sí,Bajo,No apta
-Claro,Sin olor,Sí,No,Normal,Apta
+Turbio,Sin olor,SÃ­,SÃ­,Alto,No apta
+Turbio,Desagradable,SÃ­,SÃ­,Bajo,No apta
+Turbio,Desagradable,SÃ­,SÃ­,Bajo,No apta
+Claro,Sin olor,SÃ­,No,Normal,Apta
 Claro,Sin olor,No,No,Alto,No apta
-Claro,Desagradable,Sí,Sí,Alto,No apta
-Turbio,Sin olor,Sí,Sí,Normal,No apta
+Claro,Desagradable,SÃ­,SÃ­,Alto,No apta
+Turbio,Sin olor,SÃ­,SÃ­,Normal,No apta
 Turbio,Sin olor,No,No,Bajo,No apta
-Claro,Desagradable,No,Sí,Bajo,No apta
+Claro,Desagradable,No,SÃ­,Bajo,No apta
